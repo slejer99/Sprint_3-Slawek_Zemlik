@@ -1,0 +1,7 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  background-color: #494242;
+  padding: 15px;
+  border-radius: 5px;
+}
