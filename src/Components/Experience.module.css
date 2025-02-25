@@ -1,0 +1,31 @@
+.addButton {
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: rgb(48, 151, 71);
+  width: 100%;
+  color: rgb(245, 222, 179);
+  margin-top: 10px;
+}
+.deleteButton {
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: rgb(155, 10, 10);
+  width: 100%;
+  color: rgb(245, 222, 179);
+}
+.experienceField {
+  display: flex;
+  width: 100%;
+  gap: 10px;
+}
+
+.select,
+.input {
+  padding: 5px;
+  border-radius: 5px;
+  border: none;
+  color: rgb(245, 222, 179);
+  background-color: rgb(70, 84, 131);
+}
